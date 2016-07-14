@@ -1,0 +1,120 @@
+<script src="https://www.gstatic.com/firebasejs/live/3.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyCyFeNyesqYps7LkSoI2kY5YZtwod7opPo",
+    authDomain: "orbital-56abe.firebaseapp.com",
+    databaseURL: "https://orbital-56abe.firebaseio.com",
+    storageBucket: "",
+  };
+  firebase.initializeApp(config);
+  
+</script>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Bootstrap For Beginners</title>
+	<meta name="description" content="Hello World">
+	
+	<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+
+</head>
+
+<body>
+		<div class="container">
+  <div class="page-header">
+
+    <h1 class="text-center">Nus Facilities</h1>
+  </div>
+
+  <div class="container">
+    <div class="row stylish-panel">
+      <div class="col-md-4">
+      <div>
+          <img src="file:///C:/Users/leroy_000/Downloads/Re%253a_/Nus%20libraries.jpg" alt="Texto Alternativo" class="img-square img-thumbnail">
+          <h1>Nus libraries</h1>
+          <p>
+          </p>
+        
+			<a href="file:///C:/Users/leroy_000/Downloads/Re%253a_/test.html" class="btn btn-primary" title="See more">Click here »</a>     
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div>
+          <img src="file:///C:/Users/leroy_000/Downloads/Re%253a_/Nus%20gym.JPG" alt="Texto Alternativo" class="img-square img-thumbnail">
+          <h2>Gyms</h2>
+          <p>
+          </p>
+          <a href="file:///C:/Users/leroy_000/Downloads/Re%253a_/gym.html" class="btn btn-primary" title="See more">Click here »</a>
+        </div>
+      </div>
+
+
+      <div class="col-md-4">
+        <div>
+          <img src="file:///C:/Users/leroy_000/Downloads/Re%253a_/Nus%20pool.jpg" alt="Texto Alternativo" class="img-square img-thumbnail">
+          <h2>Swimming pools</h2>
+          <p>
+          </p>
+          <a href="file:///C:/Users/BoonChwee/Downloads/Swimmingpool.html" class="btn btn-primary" title="See more">Click here »</a>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="row stylish-panel">
+      <div class="col-md-4">
+        <div>
+          <img src="file:///C:/Users/leroy_000/Downloads/Re%253a_/Nus%20ERC.jpg" alt="Texto Alternativo" class="img-square img-thumbnail">
+          <h2>Utown ERC</h2>
+          <p>
+          </p>
+          <a href="file:///C:/Users/leroy_000/Downloads/Re%253a_/ERC%20.html" class="btn btn-primary" title="See more">Click here »</a>
+        </div>
+      </div>
+
+     
+
+      <div class="col-md-4">
+        <div>
+          <img src="file:///C:/Users/leroy_000/Downloads/Re%253a_/Nus%20badminton.jpg" alt="Texto Alternativo" class="img-square img-thumbnail">
+          <h2>Badminton courts</h2>
+          <p>
+          </p>
+          <a href="https://reboks.nus.edu.sg/nus_public_web/public/auth?redirect=%2Fnus_public_web%2Fpublic%2Fprofile" class="btn btn-primary" title="See more">Click here »</a>
+        </div>
+      </div>
+
+ 
+      <div class="col-md-4">
+        <div>
+          <img src="file:///C:/Users/leroy_000/Downloads/Re%253a_/Nus%20tenniscourt.jpg" alt="Texto Alternativo" class="img-square img-thumbnail">
+          <h2>Tennis courts</h2>
+          <p>
+          </p>
+          <a href="https://reboks.nus.edu.sg/nus_public_web/public/auth?redirect=%2Fnus_public_web%2Fpublic%2Fprofile" class="btn btn-primary" title="See more">Click here »</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- /container -->
+
+
+		
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="code.jquery.com/jquery-2.1.1min.js"</script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+</body>	
+</html>
